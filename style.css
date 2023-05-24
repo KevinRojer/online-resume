@@ -1,0 +1,26 @@
+body{
+    background-color: #EFEDF1;
+}
+
+#profile-pic{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    color:#114976;
+}
+
+h2{
+    color:#114976;
+}
+
+
+.profile-title{
+    width: 250px;
+    height: 50px;
+}
+
+.profile-text{
+    width: 250px;
+}
