@@ -1,10 +1,15 @@
 body{
     background-color: #EFEDF1;
+    font-family: "Merriweather", serif;
+    font-size: 12pt;
+    font-weight: 400;
+    margin: 2%;
 }
 
 #profile-pic{
     width: 200px;
     height: 200px;
+    border: 10px solid #EFF1ED;
 }
 
 h1{
@@ -15,12 +20,47 @@ h2{
     color:#114976;
 }
 
-
 .profile-title{
     width: 250px;
     height: 50px;
+    text-align: left;
+    margin-top: 0%;
 }
 
 .profile-text{
     width: 250px;
+}
+
+#mission-statement{
+    color: #114976;
+    font-style: normal;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20pt;
+    font-weight: 700;
+}
+
+#Introduction-title{
+    color: #114976;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20pt;
+    font-weight: 700;
+}
+
+.resume-title{
+    color: #114976;
+    font-family: "Lato", sans-serif;
+    font-size: 20pt;
+    font-weight: 700;
+}
+
+.degree-title{
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    font-weight: 600;
+}
+
+.job-title{
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    font-weight: 600;
 }
